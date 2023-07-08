@@ -34,4 +34,6 @@ Ten en cuenta que IA-Reviews está en desarrollo y algunas características pued
 
 ## Licencia
 
-[Indica la licencia bajo la cual se distribuye tu proyecto]
+Este proyecto está bajo la Licencia de Derechos Reservados. Consulta el archivo [LICENSE](./LICENSE) para obtener más información.
+
+© Marc Gimeno Cervantes
