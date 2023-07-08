@@ -17,7 +17,6 @@ El objetivo de IA-Reviews es proporcionar a los usuarios una forma rápida y con
 - React: una biblioteca de JavaScript para construir interfaces de usuario.
 - Tailwind CSS: un framework de CSS orientado a utilidades para diseños modernos y receptivos.
 - Python: lenguaje de programación utilizado para los algoritmos de IA.
-- [Agrega cualquier otra tecnología o biblioteca utilizada]
 
 ## Cómo funciona
 
@@ -28,10 +27,6 @@ El objetivo de IA-Reviews es proporcionar a los usuarios una forma rápida y con
 5. Los usuarios pueden acceder y leer fácilmente las reseñas resumidas para tomar decisiones informadas sobre el producto.
 
 Ten en cuenta que IA-Reviews está en desarrollo y algunas características pueden estar incompletas o sujetas a cambios.
-
-## Instalación
-
-[Proporciona instrucciones de instalación si corresponde]
 
 ## Contribuciones
 
