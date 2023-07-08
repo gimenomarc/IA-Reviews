@@ -34,6 +34,8 @@ Ten en cuenta que IA-Reviews está en desarrollo y algunas características pued
 
 ## Licencia
 
-Este proyecto está bajo la Licencia de Derechos Reservados. Consulta el archivo [LICENSE](./LICENSE) para obtener más información.
+Este proyecto está bajo la Licencia de Derechos Reservados. Todos los derechos están reservados y no se permite la reproducción, distribución o uso del proyecto sin el permiso previo y por escrito del titular de los derechos de autor.
 
 © Marc Gimeno Cervantes
+
+Consulta el archivo [LICENSE](./LICENSE) para obtener más información y los detalles completos de los términos y condiciones de la licencia.
