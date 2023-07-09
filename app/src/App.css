@@ -28,33 +28,3 @@
 .light .text-white {
   color: #fff;
 }
-
-.light .input {
-  background-color: #fff;
-  color: #000;
-}
-
-.light .button {
-  background-color: #f8f8f8;
-  color: #000;
-  border: 1px solid #000;
-}
-
-
-.fade-enter {
-  opacity: 0;
-}
-
-.fade-enter-active {
-  opacity: 1;
-  transition: opacity 0.3s ease;
-}
-
-.fade-exit {
-  opacity: 1;
-}
-
-.fade-exit-active {
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
